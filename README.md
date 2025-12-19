@@ -17,7 +17,7 @@ It showcases flower products, deals, and promotional sections with a clean UI an
 
 📱 Mobile View
 
-<img width="550" height="9800" alt="georgeblaize github io_flower-market_Mobile" src="https://github.com/user-attachments/assets/aaaba05a-98b9-4fe7-99ac-ad4e5d133bac" />
+<img width="650" height="22000" alt="georgeblaize github io_flower-market_Mobile" src="https://github.com/user-attachments/assets/aaaba05a-98b9-4fe7-99ac-ad4e5d133bac" />
 
 
 ---
