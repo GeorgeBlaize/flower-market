@@ -6,7 +6,7 @@ It showcases flower products, deals, and promotional sections with a clean UI an
 ---
 
 ## 🔗 Live Preview
-> _Add your deployed link here (Netlify / Vercel / GitHub Pages)_
+>https://georgeblaize.github.io/flower-market/
 
 ---
 
